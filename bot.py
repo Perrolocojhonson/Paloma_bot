@@ -4,8 +4,9 @@ import urllib
 from urllib import parse, request
 import re
 
-# comentario de prueba
 cliente = commands.Bot (command_prefix = '!')
+
+# Paloma XD
 
 @cliente.event
 async def on_ready():
